@@ -8,5 +8,5 @@ breakthrough — some are a single LeetCode problem, some are a
 stuck afternoon. Both are logged.
 
 ## Index
-- [July 2026](2026/07-july.md)
+- [July 2026](https://github.com/jit-karki/python-try/blob/main/07-July.md)
 - [August 2026](2026/08-august.md)
