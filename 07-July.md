@@ -10,3 +10,7 @@
 
 **Did:** Completed Module 11, Completed Bash Command Quiz and started to build a celestial bodies database
 
+### Jul 30
+**Focus:** AWS Skill Builder
+
+
