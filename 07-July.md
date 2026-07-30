@@ -13,4 +13,6 @@
 ### Jul 30
 **Focus:** AWS Skill Builder
 
+**Did:** Completed Module 12
+
 
