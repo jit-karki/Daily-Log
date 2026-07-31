@@ -15,4 +15,7 @@
 
 **Did:** Completed Module 12
 
+### Jul 31
+***Focus:** AWS Skill Builder, English Proficiency 
 
+**Did:** Revised previous Modules, Practiced Extempore
