@@ -18,4 +18,4 @@
 ### Jul 31
 ***Focus:** AWS Skill Builder, English Proficiency 
 
-**Did:** Revised previous Modules, Practiced Extempore
+**Did:** Revised previous Modules and start with Module 13, Practiced Extempore
