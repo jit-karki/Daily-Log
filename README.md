@@ -9,4 +9,4 @@ stuck afternoon. Both are logged.
 
 ## Index
 - [July 2026](https://github.com/jit-karki/python-try/blob/main/07-July.md)
-- [August 2026](2026/08-august.md)
+- [August 2026](https://github.com/jit-karki/Daily-Log/blob/main/08-Aug.md)
