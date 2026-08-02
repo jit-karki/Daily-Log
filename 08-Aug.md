@@ -6,6 +6,6 @@
 **Did:** Completed Module 13 and Get certificate 
 
 ### Aug 2
-***Focus:** TCS iON 
+**Focus:** TCS iON 
 
 **Did:** Completed Day 4 Content
