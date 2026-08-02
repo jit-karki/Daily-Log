@@ -8,4 +8,4 @@
 ### Aug 2
 **Focus:** TCS iON 
 
-**Did:** Completed Day 4 Content
+**Did:** Completed Day 4 and Day 5 Contents and Assesments
