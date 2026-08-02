@@ -3,4 +3,9 @@
 ### Aug 1
 **Focus:** AWS Skill Builder
 
-**Did:** Complete Module 13 and Get certificate 
+**Did:** Completed Module 13 and Get certificate 
+
+### Aug 2
+***Focus:** TCS iON 
+
+**Did:** Completed Day 4 Content
