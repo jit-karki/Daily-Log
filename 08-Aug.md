@@ -8,9 +8,9 @@
 ### Aug 2
 **Focus:** TCS iON 
 
-**Did:** Completed Day 4 and Day 5 Contents and Assesments
+**Did:** Completed Day 4 and Day 5 Contents and Assessments
 
 ### Aug 3
 **Focus:** TCS iON, Public Speaking
 
-**Did:** Completed Day 6 and 7 contents and assesments
+**Did:** Completed Day 6 and 7 Contents and Assessments, Improved vocabulary by speaking for 30mins 
