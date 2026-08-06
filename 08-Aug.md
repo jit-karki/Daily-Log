@@ -21,3 +21,9 @@
 **Did:** Completed Day 7 Contents and Assesments
 
 ### Aug 5
+**Focus:** TCS iON 
+**Did:** Completed Day 8 Contents and Assesments
+
+### Aug 6
+**Focus:** TCS iON 
+**Did:** Completed Day 9 Contents and Assesments
